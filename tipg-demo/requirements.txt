@@ -1,2 +1,5 @@
 tipg
 uvicorn
+geopandas
+geoalchemy2
+psycopg2-binary

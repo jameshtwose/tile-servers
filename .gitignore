@@ -3,3 +3,4 @@ scratch*
 *.csv
 .venv/
 __pycache__/
+*.gpkg
